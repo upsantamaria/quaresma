@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Semana 2 - Caminhada Quaresmal</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Raleway:wght@300;400;500&display=swap" rel="stylesheet">
+
+<style>
+    /* --- ESTE BLOCO DE ESTILO É IDÊNTICO AO DA SEMANA 1 PARA MANTER A CONSISTÊNCIA --- */
+    
+    /* Reset básico para garantir consistência */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    /* Estilo do Fundo Geral - Gradiente Roxo Suave */
+    body {
+        font-family: 'Raleway', sans-serif;
+        background: linear-gradient(135deg, #EEEAF5 0%, #D6CADD 100%); /* Roxo litúrgico muito suave */
+        color: #3E2F5B; /* Cor de texto principal: Roxo carvão */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        padding: 20px;
+    }
+
+    /* O Cartão "Flutuante" */
+    .card-container {
+        background-color: rgba(255, 255, 255, 0.96); /* Branco quase opaco */
+        width: 100%;
+        max-width: 500px; /* Largura ideal para um flyer tipo A5 */
+        padding: 40px;
+        border-radius: 20px; /* Cantos arredondados suaves */
+        box-shadow: 0 10px 30px rgba(62, 47, 91, 0.15); /* Sombra suave para dar profundidade */
+        text-align: center;
+        border-top: 4px solid #7A5493; /* Um toque de cor no topo */
+    }
+/* Estilo para o Logotipo */
+    .logo {
+        max-width: 100px; /* Tamanho do logotipo */
+        height: auto;
+        margin: 0 auto 20px auto;
+        display: block;
+    }
+
+
+    /* Tipografia e Hierarquia */
+    .top-header {
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        color: #7A5493; /* Cor de destaque ametista */
+        font-weight: 600;
+        margin-bottom: 15px;
+    }
+
+    h1.main-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 2rem;
+        font-weight: 600;
+        margin-bottom: 5px;
+        line-height: 1.2;
+    }
+
+    h2.subtitle {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.1rem;
+        font-weight: 400;
+        margin-bottom: 20px;
+        color: #5E4B7F;
+    }
+
+    /* Caixa de Tema */
+    .theme-box {
+        background-color: #F4F0F9; /* Fundo roxo muito claro */
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 25px;
+        font-weight: 500;
+    }
+
+    /* Separador elegante */
+    .separator {
+        height: 1px;
+        width: 60px;
+        background-color: #D6CADD;
+        margin: 25px auto;
+    }
+
+    /* Chave Espiritual */
+    .spiritual-key {
+        font-family: 'Playfair Display', serif;
+        font-style: italic;
+        font-size: 1.1rem;
+        line-height: 1.6;
+        color: #5E4B7F;
+        margin-bottom: 30px;
+    }
+
+    /* Secções de Ação */
+    .action-section {
+        text-align: left;
+        margin-top: 30px;
+    }
+
+    .section-title {
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        color: #7A5493;
+        font-weight: 600;
+        margin-bottom: 15px;
+        display: flex;
+        align-items: center;
+    }
+
+    /* Ícones simples usando CSS (círculos) */
+    .icon-dot {
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        background-color: #7A5493;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+
+    /* Listas */
+    ul {
+        list-style-type: none;
+        padding-left: 10px;
+    }
+
+    ul li {
+        margin-bottom: 12px;
+        line-height: 1.5;
+        position: relative;
+        padding-left: 20px;
+    }
+    
+    ul li::before {
+        content: "•";
+        color: #7A5493;
+        position: absolute;
+        left: 0;
+        font-size: 1.2em;
+    }
+
+    /* Ajustes para impressão */
+    @media print {
+        body {
+            background: none;
+            padding: 0;
+        }
+        .card-container {
+            box-shadow: none;
+            border-radius: 0;
+            max-width: 100%;
+            padding: 30px;
+            border-top: none; /* Remover a borda superior na impressão se preferir mais limpo */
+        }
+        /* Garante que as cores de fundo sejam impressas */
+        * {
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+    }
+</style>
+</head>
+<body>
+
+    <div class="card-container">
+	<img src="https://i.ibb.co/kr304nN/logo-UP-sta-Maria-11.jpg" alt="Logotipo" class="logo">
+        <div class="top-header">
+            Do Deserto à Vida · Caminhada em Família
+        </div>
+
+        <h1 class="main-title">2º Domingo da Quaresma</h1>
+        <h2 class="subtitle">A Transfiguração (Mateus 17,1-9)</h2>
+
+        <div class="theme-box">
+            Tema: Escutar transforma
+        </div>
+
+        <div class="separator"></div>
+
+        <div class="spiritual-key">
+            “Jesus transfigura-se quando é escutado. Também a família se transforma quando aprende a escutar com atenção e amor.”
+        </div>
+
+        <div class="separator"></div>
+
+        <div class="action-section">
+            <div class="section-title">
+                <span class="icon-dot"></span> Gesto em Família
+            </div>
+            <ul>
+                <li>Reservar um momento semanal de **escuta sem interrupções** (cada um fala, os outros só escutam).</li>
+                <li>Pais e filhos partilham: <strong>“O que me faz sentir amado(a) nesta família?”</strong></li>
+                <li>**Durante a semana:** Escutar/ler passagens bíblicas (ex: liturgia diária).</li>
+            </ul>
+        </div>
+
+        <div class="action-section" style="margin-top: 25px; background-color: #F9F6FC; padding: 20px; border-radius: 10px;">
+            <div class="section-title" style="margin-bottom: 10px;">
+                <span class="icon-dot" style="background-color: #5E4B7F;"></span> Sinal Concreto em Casa
+            </div>
+            <p style="line-height: 1.5;">
+                Colocar a <strong>Bíblia aberta</strong> num local central, com a frase: “Escutai-O”.
+            </p>
+        </div>
+
+    </div>
+
+</body>
+</html>
