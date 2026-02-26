@@ -195,7 +195,7 @@
             Votos de uma Santa Quaresma!
         </div>
 		<div class="theme-box-2">
-        <a href="https://upsantamaria.github.io/quaresma/semana_1.html">I Semana</a>&nbsp&nbsp<a href="https://upsantamaria.github.io/quaresma/semana_2.hml">Semana II</a>&nbsp&nbsp<a href="https://upsantamaria.github.io/quaresma/semana_3.hml">Semana III</a>&nbsp&nbsp<a href="https://upsantamaria.github.io/quaresma/semana_4.hml">Semana IV</a>&nbsp&nbsp<a href="https://upsantamaria.github.io/quaresma/semana_5.hml">Semana V</a>
+        <a href="https://upsantamaria.github.io/quaresma/semana_1.html">I Semana</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_2.hml">Semana II</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_3.hml">Semana III</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_4.hml">Semana IV</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_5.hml">Semana V</a>
         </div>
 
     </div>
