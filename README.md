@@ -77,6 +77,16 @@
         font-weight: 500;
     }
 
+	 /* Caixa de Tema */
+    .theme-box-2 {
+        background-color: #F4F0F9; /* Fundo roxo muito claro */
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 25px;
+        font-weight: 500;
+
+	}	
+
     /* Separador elegante */
     .separator {
         height: 1px;
@@ -183,6 +193,9 @@
         <div class="spiritual-key">
             Ao longo desta Quaresma, vamos caminhando do Deserto à Vida e aprofundando a nossa espiritualidade através de desafios simples, compromissos individuais e familiares, que nos conduzam a uma verdadeira conversão interior e receonversão das nossas relações uns com os outros e, sobretudo, ganhando cada vez mais intimidade com o Senhor.<br><br>
             Votos de uma Santa Quaresma!
+        </div>
+		<div class="theme-box-2">
+        <a href="https://upsantamaria.github.io/quaresma/semana_1.html">I Semana</a><&nbsp><a href="https://upsantamaria.github.io/quaresma/semana_2.hml">Semana II</a><&nbsp><a href="https://upsantamaria.github.io/quaresma/semana_3.hml">Semana III</a><&nbsp><a href="https://upsantamaria.github.io/quaresma/semana_4.hml">Semana IV</a><&nbsp><a href="https://upsantamaria.github.io/quaresma/semana_5.hml">Semana V</a>
         </div>
 
     </div>
