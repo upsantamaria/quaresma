@@ -171,6 +171,9 @@
             -webkit-print-color-adjust: exact;
             print-color-adjust: exact;
         }
+		.ocultar {
+    display: none; /* Remove o elemento do layout */
+}
     }
 </style>
 </head>
@@ -195,9 +198,10 @@
             Votos de uma Santa Quaresma!
         </div>
 		<div class="theme-box-2">
-        <a href="https://upsantamaria.github.io/quaresma/semana_1.html">I Semana</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_2.hml">Semana II</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_3.hml">Semana III</a>
+        <a href="https://upsantamaria.github.io/quaresma/semana_1.html">Semana I</a>
+		<div class="ocultar">&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_2.html">Semana II</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_3.html">Semana III</a>
 		<br>
-		&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_4.hml">Semana IV</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_5.hml">Semana V</a>
+		&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_4.html">Semana IV</a>&nbsp;&nbsp;<a href="https://upsantamaria.github.io/quaresma/semana_5.html">Semana V</a>
         </div>
 
     </div>
