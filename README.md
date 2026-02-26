@@ -181,7 +181,7 @@
         <div class="separator"></div>
 
         <div class="spiritual-key">
-            Ao longo desta Quaresma, vamos caminhando do Deserto à Vida e aprofundando a nossa espiritualidade através de desafios simples, compromissos individuais e familiares, que nos conduzam a uma verdadeira conversão interior e receonversão das nossas relações uns com os outros e, sobretudo, ganhando cada vez mais intimidade com o Senhor.<br>
+            Ao longo desta Quaresma, vamos caminhando do Deserto à Vida e aprofundando a nossa espiritualidade através de desafios simples, compromissos individuais e familiares, que nos conduzam a uma verdadeira conversão interior e receonversão das nossas relações uns com os outros e, sobretudo, ganhando cada vez mais intimidade com o Senhor.<br><br>
             Votos de uma Santa Quaresma!
         </div>
 
