@@ -88,7 +88,7 @@
     /* Chave Espiritual */
     .spiritual-key {
         font-family: 'Playfair Display', serif;
-        font-style: italic;
+        font-style: regular;
         font-size: 1.1rem;
         line-height: 1.6;
         color: #5E4B7F;
