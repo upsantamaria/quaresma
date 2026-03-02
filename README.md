@@ -198,7 +198,7 @@
             Votos de uma Santa Quaresma!
         </div>
 		<div class="theme-box-2">
-        <a href="https://upsantamaria.github.io/quaresma/semana_1.html">Semana I</a>&nbsp;&nbsp;
+        <a href="https://upsantamaria.github.io/quaresma/semana_1.html">Semana I</a>&nbsp;&nbsp;  <a href="https://upsantamaria.github.io/quaresma/semana_2.html">Semana II</a>
         </div>
 
     </div>
